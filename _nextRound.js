@@ -1,4 +1,4 @@
-// link do zadania -> https://codeforces.com/problemset/problem/158/A
+/// link do zadania -> https://codeforces.com/problemset/problem/158/A
 
 // rozwiązanie:
 
